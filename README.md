@@ -55,3 +55,15 @@ When writing a post, there are 3 options you can add to the header.
 
 Like it? [Tell me](http://twitter.com/muanchiou).<br/>
 Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
+
+### Changelog
+
+- Update to kramdown and rouge
+
+    - References
+
+        - [Updating your Markdown processor to kramdown](https://help.github.com/articles/updating-your-markdown-processor-to-kramdown/)
+        - [Fixing highlighting errors](https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors)
+        - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
+        - [Switch to kramdown markdown and rouge highlighting](https://github.com/muan/scribble/pull/39)
+        - [Why yours and original look different](https://github.com/briennakh/briennakh.github.io/issues/1)
