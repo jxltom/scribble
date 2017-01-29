@@ -68,4 +68,8 @@ Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
         - [Switch to kramdown markdown and rouge highlighting](https://github.com/muan/scribble/pull/39)
         - [Why yours and original look different](https://github.com/briennakh/briennakh.github.io/issues/1)
 
-- Add missing base url in ```missing-url``` branch
+- Add missing base url in ```missing-url``` branch. The ```site.url``` is added in the path of following objects
+
+  - Previous page and next page in pages.html
+
+  - Signoff image in signoff.html
