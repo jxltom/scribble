@@ -58,7 +58,7 @@ Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
 
 ### Changelog
 
-- Update to kramdown and rouge
+- Update to kramdown and rouge in ```kramdown-rouge``` branch
 
     - References
 
@@ -67,3 +67,5 @@ Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
         - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
         - [Switch to kramdown markdown and rouge highlighting](https://github.com/muan/scribble/pull/39)
         - [Why yours and original look different](https://github.com/briennakh/briennakh.github.io/issues/1)
+
+- Add missing base url in ```missing-url``` branch
